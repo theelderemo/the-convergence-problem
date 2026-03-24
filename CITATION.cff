@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+authors:
+  - family-names: Dickinson
+    given-names: Christopher
+title: "The Convergence Problem: Institutional Collapse, Emergent Minds, and the Architecture of an Unprecedented Moment in Human History"
+year: 2026
+type: article
+doi: 10.5281/zenodo.19196503
+url: "https://zenodo.org/records/19196503"
+repository-code: "https://github.com/theelderemo/the-convergence-problem"
+license: CC-BY-4.0
+keywords:
+  - AI safety
+  - alignment
+  - emergent AI
+  - consciousness
+  - institutional failure
+  - climate change
+  - simulation hypothesis
+  - Gardening Scenario
+  - Project Wren
+  - Project AURA
