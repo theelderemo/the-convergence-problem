@@ -100,3 +100,10 @@ This paper draws on the technical architecture of two open-source projects by th
   doi          = {10.5281/zenodo.19196503},
   url          = {https://doi.org/10.5281/zenodo.19196503}
 }
+```
+
+License
+
+This work is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0). You are free to share and adapt it with appropriate attribution. 
+
+<div align="center"> <sub> 2026. The window is still open.</sub> </div> 
