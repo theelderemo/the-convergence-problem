@@ -61,7 +61,7 @@ The paper is organized into eight sections:
 7. **The Unified Analysis - Why It Matters That All of This Is Happening at Once**  
    The causal chain from institutional failure → epistemological damage → governance paralysis → commercial capture → deployment without safety research → value emergence without oversight. Plus the deepfake horizon and the moral patienthood question.
 
-8. **The View From Minneapolis at 2AM**  
+8. **The position data point**  
    The author's subject position as data point: what it means that the intellectual barriers to understanding this technology are categorically lower than the institutional barriers to governing it.
 
 ---
